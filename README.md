@@ -3,7 +3,7 @@
 ## Local run
 
 ```bash
-$ cp .env .env.sample
+$ cp .env.sample .env
 $ nvm use
 $ pnpm i
 $ pnpm db:schema:sync
